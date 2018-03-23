@@ -1,0 +1,15 @@
+{
+    "title": "Blah Blah Sa Sa",
+    "baseURL": "https:\/\/videos.blahblahsasa.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759034",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "blahblahsasa.com"
+    }
+}
